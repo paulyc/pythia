@@ -31,3 +31,9 @@ const ra = '\ud80c\udc5a';
 const sekhmet = sekhem+loaf+sundisk+ra;
 
 console.log(sekhmet);
+
+const sekhmet2 = '𓌂𓐍𓏏𓁚';
+console.log(sekhmet2);
+
+console.log(sekhmet == sekhmet2);
+console.log(sekhmet === sekhmet2);
